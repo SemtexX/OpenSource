@@ -9,5 +9,5 @@ Aion 4.7.5 EU Recommended<br>
 • New Authorizing Config to make the Rates more accurate<br>
 • New Events Implemented<br>
 • New PvP System BETA<br>
-      75% DONE<br>
+     -75% DONE-<br>
 • Reworked Base System<br>
