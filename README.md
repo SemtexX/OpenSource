@@ -12,4 +12,3 @@ Aion 4.7.5 EU Recommended<br>
      -99% DONE-<br>
 • GloryPoints as PvP Reward<br>
 • AntiZerg System<br>
-• AntiZerg System<br>
